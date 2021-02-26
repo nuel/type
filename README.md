@@ -1,6 +1,6 @@
 # nuel font library
 
-Here are all typefaces I have created, available for download in one convenient place. All of them are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Browse the repo to find the files, some of them are only as TTF, others in a few formats. Have fun! :)
+Here are all typefaces I have created, available for download in one convenient place. All of them are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). All files are in this repo, some of them are only as TTF, others in a few formats. Have fun! :)
 
 ## Algemeen and Algemeen Rusa
 ![Algemeen and Algemeen Rusa](https://user-images.githubusercontent.com/66974415/109304913-41f75b00-783d-11eb-911a-70ea063b27e6.png)
